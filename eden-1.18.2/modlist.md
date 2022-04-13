@@ -1,6 +1,7 @@
 # Content & Mechanics
 
 - Additional Additions
+- Applied Energistic 2
 - Apotheosis
 - Aquaculture
 - Bag of Holding
@@ -14,15 +15,19 @@
 - DoggyTalents
 - EasyShulkerBoxes
 - Exotic Birds
+- Extreme Reactors 2
 - Fast Leaf Decay
 - Gravestone
+- Immersive Engineering
 - JourneyMap
 - JumpBoat
-- Mekanism
+- Mekanism + Generators
 - Moving Elevators
+- Mystical Agriculture + Agradditions
 - Natures Aura
 - Natures Compass
 - Oh My Goat
+- Pneumaticcraft
 - Quark
 - Refined Storage
 - Silent Gear
