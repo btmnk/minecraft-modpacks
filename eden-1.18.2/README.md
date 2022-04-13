@@ -34,7 +34,7 @@ Das ist zwar an sich nicht unbedingt notwendig aber wenn ihr beim Spielen immer 
 
 ## Schritt 3 - Instanz herunterladen und importieren
 
-Die MultiMC mit allen Mods bekommt ihr Hier:
+Die MultiMC-Instanz mit allen Mods bekommt ihr Hier:
 
 [Eden Modpack - 1.18.2](https://drive.google.com/file/d/13wDIzj6O-OUEkU8S0_r0s0MpQpdZ5HFz/view?usp=sharing).
 
