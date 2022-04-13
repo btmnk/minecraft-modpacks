@@ -40,6 +40,7 @@
 # QOL
 
 - FTB Chunks
+- FTB Ranks
 - FTB Teams
 - JEI
 - JER
