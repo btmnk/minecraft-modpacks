@@ -125,23 +125,4 @@ Wenn ihr nun das Inventar öffnet und links oben auf das Icon mit den 3 Männche
 - SilentGear
   - Verbesserte Werkzeuge mit vielen verschiedenen Traits und Gimmicks
 
-#### Mod Highlights
-
-- Apotheosis
-- Botania
-- Natures Aura
-- Create
-- Chisels and Bits
-- Cooking for Blockheads
-- Doggy Talents
-- Mekanism
-- Refined Storage
-- Silent Gear
-- ToolBelt
-- Travelers Backpack
-- Waystones
-- Oh the biomes you'll go
-- Biomes O'Plenty
-- Terralith
-
-Und viele weitere QoL, Performance und Gameplay Mods!
+[Zur ganzen Modliste](./modlist.md)
